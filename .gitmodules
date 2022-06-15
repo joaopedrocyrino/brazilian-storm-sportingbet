@@ -1,0 +1,19 @@
+[submodule "contracts"]
+path = contracts
+url = https://github.com/joaopedrocyrino/brazilian-storm-sportingbet-contracts
+branch = master
+
+[submodule "ui"]
+path = ui
+url = https://github.com/joaopedrocyrino/brazilian-storm-sportingbet-ui.git
+branch = master
+
+[submodule "coordinatorJob"]
+path = coordinatorJob
+url = https://github.com/joaopedrocyrino/brazilian-storm-sportingbet-coordinator-job.git
+branch = master
+
+[submodule "graph"]
+	path = graph
+	url = https://github.com/joaopedrocyrino/brazilian-storm-sportingbet-graph.git
+branch = master
